@@ -1,0 +1,30 @@
+C:\Users\Jackson\AppData\Local\Temporary Projects\AppInvetario\bin\Debug\AppInvetario.exe
+C:\Users\Jackson\AppData\Local\Temporary Projects\AppInvetario\bin\Debug\AppInvetario.pdb
+C:\Users\Jackson\AppData\Local\Temporary Projects\AppInvetario\bin\Debug\AppInvetario.xml
+C:\Users\Jackson\AppData\Local\Temporary Projects\AppInvetario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jackson\AppData\Local\Temporary Projects\AppInvetario\obj\Debug\AppInvetario.Frm_Principal.resources
+C:\Users\Jackson\AppData\Local\Temporary Projects\AppInvetario\obj\Debug\AppInvetario.Resources.resources
+C:\Users\Jackson\AppData\Local\Temporary Projects\AppInvetario\obj\Debug\AppInvetario.vbproj.GenerateResource.Cache
+C:\Users\Jackson\AppData\Local\Temporary Projects\AppInvetario\obj\Debug\AppInvetario.exe
+C:\Users\Jackson\AppData\Local\Temporary Projects\AppInvetario\obj\Debug\AppInvetario.xml
+C:\Users\Jackson\AppData\Local\Temporary Projects\AppInvetario\obj\Debug\AppInvetario.pdb
+D:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.exe
+D:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.xml
+D:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.pdb
+D:\AppInvetario\AppInvetario\bin\Debug\AppInvetario.exe
+D:\AppInvetario\AppInvetario\bin\Debug\AppInvetario.pdb
+D:\AppInvetario\AppInvetario\bin\Debug\AppInvetario.xml
+D:\AppInvetario\AppInvetario\obj\Debug\ResolveAssemblyReference.cache
+D:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.Frm_Principal.resources
+D:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.Resources.resources
+D:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.vbproj.GenerateResource.Cache
+E:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.exe
+E:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.xml
+E:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.pdb
+E:\AppInvetario\AppInvetario\bin\Debug\AppInvetario.exe
+E:\AppInvetario\AppInvetario\bin\Debug\AppInvetario.pdb
+E:\AppInvetario\AppInvetario\bin\Debug\AppInvetario.xml
+E:\AppInvetario\AppInvetario\obj\Debug\ResolveAssemblyReference.cache
+E:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.Frm_Principal.resources
+E:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.Resources.resources
+E:\AppInvetario\AppInvetario\obj\Debug\AppInvetario.vbproj.GenerateResource.Cache
